@@ -1,0 +1,37 @@
+Activated,Config,Dataset,Description,Doublehead,Filled_set,L_head_input,R_head_input,Source_left,Source_right
+n,35,rgbdw,2D+3D Washington Silberman,n,y,2D3D,n,0,0
+y,36,rgbdw,2D+3D Washington Eitel,n,n,2D3D,n,0,0
+n,1,norb,2D einzeln NORB,n,,2D,,0,
+n,7,rgbd,2D einzeln Washington,n,y,2D,n,0,0
+n,8,rgbd,3D einzeln Washington Eitel,n,n,3D,n,0,0
+n,9,rgbd,3D einzeln Washington Silberman,n,y,3D,n,0,0
+n,2,norb,2D Stereo NORB,y,,2D,2D,0, 0
+n,3,norb,2D Stereo NORB,y,,2D,2D,0, 20
+n,4,norb,2D Stereo NORB,y,,2D,2D,0, 40
+n,5,norb,2D Stereo NORB,y,,2D,2D,0, 60
+n,6,norb,2D Stereo NORB,y,,2D,2D,0, 80
+n,32,rgbd,Stereo 2D Washington 0 Grad,y,y,2D,2D,0,0
+n,12,rgbd,Stereo 2D Washington 20 Grad,y,y,2D,2D,0,20
+n,13,rgbd,Stereo 2D Washington 40 Grad,y,y,2D,2D,0,40
+n,14,rgbd,Stereo 2D Washington 60 Grad,y,y,2D,2D,0,60
+n,15,rgbd,Stereo 2D Washington 80 Grad,y,y,2D,2D,0,80
+n,11,rgbd,Stereo 2D+3D Washington 0 Grad Eitel,y,n,2D,3D,0,0
+n,16,rgbd,Stereo 2D+3D Washington 20 Grad Eitel,y,n,2D,3D,0,20
+n,17,rgbd,Stereo 2D+3D Washington 40 Grad Eitel,y,n,2D,3D,0,40
+n,18,rgbd,Stereo 2D+3D Washington 60 Grad Eitel,y,n,2D,3D,0,60
+n,19,rgbd,Stereo 2D+3D Washington 80 Grad Eitel,y,n,2D,3D,0,80
+n,10,rgbd,Stereo 2D+3D Washington 0 Grad Silberman,y,y,2D,3D,0,0
+n,20,rgbd,Stereo 2D+3D Washington 20 Grad Silberman,y,y,2D,3D,0,20
+n,21,rgbd,Stereo 2D+3D Washington 40 Grad Silberman,y,y,2D,3D,0,40
+n,22,rgbd,Stereo 2D+3D Washington 60 Grad Silberman,y,y,2D,3D,0,60
+n,23,rgbd,Stereo 2D+3D Washington 80 Grad Silberman,y,y,2D,3D,0,80
+n,33,rgbd,Stereo 3D Washington 0 Grad Eitel,y,n,3D,3D,0,0
+n,24,rgbd,Stereo 3D Washington 20 Grad Eitel,y,n,3D,3D,0,20
+n,25,rgbd,Stereo 3D Washington 40 Grad Eitel,y,n,3D,3D,0,40
+n,26,rgbd,Stereo 3D Washington 60 Grad Eitel,y,n,3D,3D,0,60
+n,27,rgbd,Stereo 3D Washington 80 Grad Eitel,y,n,3D,3D,0,80
+n,34,rgbd,Stereo 3D Washington 0 Grad Silberman,y,y,3D,3D,0,0
+n,28,rgbd,Stereo 3D Washington 20 Grad Silberman,y,y,3D,3D,0,20
+n,29,rgbd,Stereo 3D Washington 40 Grad Silberman,y,y,3D,3D,0,40
+n,30,rgbd,Stereo 3D Washington 60 Grad Silberman,y,y,3D,3D,0,60
+n,31,rgbd,Stereo 3D Washington 80 Grad Silberman,y,y,3D,3D,0,80
